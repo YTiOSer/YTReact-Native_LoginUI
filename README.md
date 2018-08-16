@@ -1,10 +1,6 @@
 # React-Native Navigation
 
-> Home页
-![home](https://github.com/YTiOSer/YTReact-Native_Navigation/blob/master/images/homePage.png)
+> 登录页
+![登录](https://github.com/YTiOSer/YTReact-Native_LoginUI/blob/master/images/7C85FA9E-062D-4CD8-BEC3-19EA84748418.png)
 
-> Detail页
-![detail](https://github.com/YTiOSer/YTReact-Native_Navigation/blob/master/images/detailPage.png)
 
-> goback
-![goback](https://github.com/YTiOSer/YTReact-Native_Navigation/blob/master/images/goBack.png)
